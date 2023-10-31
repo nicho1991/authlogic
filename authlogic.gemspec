@@ -5,7 +5,7 @@ $LOAD_PATH.push File.expand_path("lib", __dir__)
 require "authlogic/version"
 
 ::Gem::Specification.new do |s|
-  s.name = "authlogic"
+  s.name = "authlogic-nicho"
   s.version = ::Authlogic.gem_version.to_s
   s.platform = ::Gem::Platform::RUBY
   s.authors = [

@@ -14,6 +14,14 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 * Fixed
   * None
 
+## 6.5 (2023-10-31)
+* Breaking Changes
+  * None
+* Added
+  * None
+* Fixed
+  [#1](https://github.com/nicho1991/authlogic/pull/1) - Relaxed version rails 7.1
+
 ## 6.4.2 (2021-12-21)
 
 * Breaking Changes
