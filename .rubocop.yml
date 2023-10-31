@@ -28,6 +28,9 @@ Layout/MultilineMethodCallIndentation:
 Layout/MultilineOperationIndentation:
   EnforcedStyle: indented
 
+Naming/FileName:
+  Enabled: false
+
 # Please use normal indentation when aligning parameters.
 #
 # Good:

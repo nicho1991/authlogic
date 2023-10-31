@@ -162,7 +162,7 @@ end
 
 require "English"
 $LOAD_PATH.unshift(File.expand_path("../lib", __dir__))
-require "authlogic"
+require "authlogic-nicho"
 require "authlogic/test_case"
 
 # Configure SCrypt to be as fast as possible. This is desirable for a test
